@@ -1,5 +1,5 @@
 # To-Do-List
-
+This is a simple to-do-list webpage
 
 Project Overview
 The To-Do List project is a simple and interactive web application that allows users to manage their daily tasks. Users can add, delete, and mark tasks as complete. This project is built using HTML, CSS, and JavaScript.
